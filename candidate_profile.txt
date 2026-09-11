@@ -1,19 +1,14 @@
-**Candidate Profile: Sarthak Borse**
+**Candidate Profile: Name**
 
 **Education:** 
-* **B.Tech in Artificial Intelligence and Data Science** (3rd Year, 2024 – 2028) – Marathwada Mitra Mandal's College of Engineering, Pune.
+--
 
 **Key Technical Skills:**
-* **Languages:** Python, C++, Java, C, SQL, HTML, CSS, JavaScript
-* **ML / Data Science Libraries:** NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Streamlit, Flask
-* **Tools & Platforms:** AWS (DynamoDB, SNS), Android Studio, Google Gemini API, Git & GitHub, Linux, VS Code
+* **Languages:**
+* **ML / Data Science Libraries:**
+* **Tools & Platforms:** 
 
 **Top Projects:**
-* **MedTrack:** Full-stack healthcare management web app built with Flask and AWS (DynamoDB, SNS), featuring role-based access control and real-time appointment notifications.
-* **GeoAttend:** Android attendance application utilizing OpenCV face recognition and Google Geofencing API to restrict proxy attendance.
-* **AI Recipe Generator:** Streamlit web app using the Google Gemini API and Pandas to generate personalized recipes with visual nutritional breakdowns.
-* **Reel-Count-App:** Cross-platform tracking tool built with Flutter and a Chrome Extension to monitor short-form video consumption using Android Accessibility Service.
+
 
 **Key Achievements:**
-* **Competitive Programming:** Active LeetCode problem solver focusing on Data Structures and Algorithms (arrays, strings, dynamic programming, and graph algorithms).
-* **Self-Directed Learning:** Demonstrated mastery in self-studied Machine Learning and Computer Vision by building deployed, end-to-end applications.
