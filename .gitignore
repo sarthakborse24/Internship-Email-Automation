@@ -1,0 +1,11 @@
+.env
+credentials.json
+token.json
+token.pickle
+__pycache__/
+*.pyc
+*.csv
+log.txt
+log2.txt
+log3.txt
+venv
